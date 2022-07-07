@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802901838143",
+    "project_id": "boxbox-bcb57",
+    "storage_bucket": "boxbox-bcb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802901838143:android:3cd4410d5829c4d063ab8a",
+        "android_client_info": {
+          "package_name": "com.rays.pi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802901838143-jrat4e25hqqv2qk64s7hi8og2tedjv1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCuTl434Dxq97Rq0uxEXfnyesoEExyHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802901838143-jrat4e25hqqv2qk64s7hi8og2tedjv1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
